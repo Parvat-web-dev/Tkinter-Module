@@ -92,12 +92,45 @@ title(window, 'This Is The Title')
 #In both the cases the title is changed
 ```
 <pre>
-    3. button(Surface, TEXT, position, **optional_arguments):
+    3. button(Surface, TEXT, position, command, **optional_arguments):
         Parameters:
             1. Surface: <class 'tkinter.Tk'>
                 The variable of Tk()
-    
-    `More Will Be Added Tomorrow!`
+     
+            2. TEXT: <class 'string'>
+                The Text You want on the button.
+                
+            3. position: <class 'list'>
+                The X and Y postion of the top left corner of the button.
+                Ex:
+                button(Surface, 'Button', [100, 100])
+                    or
+                pos = [100, 100]
+                button(Surface, 'Click', pos)
+                
+            4. command:
+                The command to pass when the button is clicked.
+                *Note, by default it is none, and it is an optional parameter.
+                *You can access it like this:
+                Ex:
+</pre>
+```python
+from TkinterModule import *
+
+window = Tk()
+
+def myFunc():
+    print('You Pressed The Button!')
+
+myBtn = button(window, 'Click', [10, 10], command = myFunction) #You will have noticed that the call of the function doesnot have any brackets! and will not have!
+
+#looping the tkinter!
+window.mainloop()
+```
+<pre>
+            **optional_arguments:
+            There are many other arguments
+            
     
     
     
