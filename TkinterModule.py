@@ -344,3 +344,4 @@ def label(Surface, text, position,text_color='black', bg_color = 'white', anchor
     l.config(font = f)
     l.place(x = position[0], y = position[1])
     return l
+
