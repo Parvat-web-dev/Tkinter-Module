@@ -21,9 +21,10 @@ Module Name:
     TkinterModule
     
 The package requires:
-    Python 3.7.4 or Greater, available at [Official Python](https://www.python.org)
+    Python 3.7.4 or Greater, available at </pre>[Official Python](https://www.python.org)<pre>
     Tkinter installed,
-        if not installed and python and pip are istalled, visit [Wiki How](https://www.wikihow.com/Install-Tkinter)
+        if not installed and python and pip are istalled, visit</pre> [Wiki How](https://www.wikihow.com/Install-Tkinter)
+<pre>
     
 Available Functions:
     
