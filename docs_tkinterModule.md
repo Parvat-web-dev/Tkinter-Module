@@ -50,19 +50,20 @@ Defenitions:
                 The Height of the screen in pixels 
             
             Ex:
-            ```python
-            from TkinterModule import *
+</pre>
+```python
+from TkinterModule import *
 
-            #Creating a variable for Tkinter screen
-            window = Tk()
+#Creating a variable for Tkinter screen
+window = Tk()
 
-            #Changing The size of the Tkinter Screen
-            size(window, 700, 700)
-            #Now the size of the Tkinter screen
-            # will be 700 px wide and 700 px height
-            
-            ```
-            
+#Changing The size of the Tkinter Screen
+size(window, 700, 700)
+#Now the size of the Tkinter screen
+# will be 700 px wide and 700 px height
+
+```
+<pre>
     2. title(Surface, title_name):
         Gives a title to the screen.
         
@@ -74,22 +75,23 @@ Defenitions:
                 Sets the title as the given string.
                 
         Ex:
-        ```python
-        from TkinterModule import *
-        
-        #Creating a Tkinter Screen:
-        window = Tk()
-        
-        #The title's name can be given in two ways:
-        name = "This Is The Title"
-        title(window, name)
-        
-        #---------or----------#
-        title(window, 'This Is The Title')
-        
-        #In both the cases the title is changed
-        ```
-       
+</pre>
+```python
+from TkinterModule import *
+
+#Creating a Tkinter Screen:
+window = Tk()
+
+#The title's name can be given in two ways:
+name = "This Is The Title"
+title(window, name)
+
+#---------or----------#
+title(window, 'This Is The Title')
+
+#In both the cases the title is changed
+```
+<pre>
     3. button(Surface, TEXT, position, **optional_arguments):
         Parameters:
             1. Surface: <class 'tkinter.Tk'>
