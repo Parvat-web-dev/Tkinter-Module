@@ -247,6 +247,44 @@ Explanation_of_the_code = '''
 window.mainloop()
 ```
 <pre>
-    6. lable(Surface, text, position, **optional_argument):    
-    
+    6. label(Surface, text, position, **optional_argument):   
+        Creates a label on the screen.
+        *Note same as 'tkinter.Label()'.
+        
+        Parameters:
+        1. Surface:    <class 'tkinter.Tk'>
+            The variable of Tk()
+        
+        2. text:    <class 'string'>
+            The text to be displayed on the screen.
+            
+        3. position:    <class 'list'>, list_item <class 'int'>
+            The position of the top left corner of the label
+            
+        **optional_arguments:
+        4. text_color:  <class 'string'>
+            The color of the text.
+            *Note By Default It Is 'black'.
+            
+        5. bg_color:    <class 'string'>
+            The background color of the label.
+            *Note By Default It Is 'white'.
+        
+        6. anchor:  <class 'string'>
+            The anchor of the text.
+            *Note By Default It Is CENTER
+            
+        7. font:    <class 'string'>
+            The font of the string.
+            *Note By Default It Is 'Courier'
+            
+        8. font_size:   <class 'string'>
+            The font size of the text in pixels.
+            *Note By Default It Is 14px
 </pre>        
+Thanks For Using This Module.<br/>
+Credits:<br/>
+```Parvat.R and Rohit.S.V```<br/>
+More Functions will be added on request!
+For More Pygame Module Visit: [myPygameModule](https://github.com/Parvat-web-dev)
+For Telegram Bots Visit : [Rohit.S.V](https://github.com/rohithaditya/)
