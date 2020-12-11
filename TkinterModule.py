@@ -242,14 +242,14 @@ def click():
 #creating a button!
 b = button(wwindow, [50, 10], command = click)
 
-Explanation_of_the_code = '''
+Explanation_of_the_code = ''
     First the window was created.
     Next We created an input field on the screen
     Then we created a function named 'click' which is called when the button is pressed
     Then we create a button and thats all.
     When the button is pressed, it calls the function and the function
     prints the value of the text inputted in the input_area!
-'''
+''
 
 window.mainloop()
 
