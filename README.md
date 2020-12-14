@@ -12,7 +12,7 @@ We provide you a module (*with little functons*), to make you code less and easy
 ## Installation And Using 
 
 <p align="center" text-color='blue'>
-  Just download the <a href="https://github.com/Parvat-web-dev/Tkinter-Module/archive/main/TkinterModule.zip">TkinterModule.py</a> in the directory where you are creating a py file!
+  Just download the <a href="https://github.com/Parvat-web-dev/Tkinter-Module/archive/TkinterModule.zip">TkinterModule.py</a> in the directory where you are creating a py file!
   And In Your File Just Type This <kbd>from TkinterModule import *</kbd>
     If you have you forked it don't forget to star it ⭐
 
