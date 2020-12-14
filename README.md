@@ -12,7 +12,7 @@ We provide you a module (*with little functons*), to make you code less and easy
 ## Installation And Using 
 
 <p align="center">
-Simply Clone This Website And Just Import The tinkerter.py 
+  Just download the <a href="">TkinterModule.py</a> in the directory where you are creating a py file!
 And In Your File Just Type This ```from TkinterModule import * ```
 If you have you forked it don't forget to star it ⭐
 
