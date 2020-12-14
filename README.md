@@ -13,7 +13,7 @@ We provide you a module (*with little functons*), to make you code less and easy
 
 <p align="center">
   Just download the <a href="">TkinterModule.py</a> in the directory where you are creating a py file!
-And In Your File Just Type This ```from TkinterModule import * ```
+  And In Your File Just Type This <kbd>from TkinterModule import *</kbd>
 If you have you forked it don't forget to star it ⭐
 
 ## ⚠Warning Read This // Disclaimer
