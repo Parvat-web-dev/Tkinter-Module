@@ -21,10 +21,11 @@ If you have you forked it don't forget to star it ⭐
 
 ```
 The official python.org or the tkinter has nothing to do with this module. 
-This module is created by just two individuals!
+          This module is created by just two individuals!
 We The Team Venila bots Are Not Responsible For Any Ban If You Misused 
-Thank You 
+                          Thank You!
 ```
+
 ## Reach us on 
 
 <a href="https://t.me/rohithaditya"><img src="https://img.shields.io/badge/Pm%20Us%20On%20Telegram-Rohithaditya-blue"></a>
