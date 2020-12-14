@@ -13,7 +13,7 @@ We provide you a module (*with little functons*), to make you code less and easy
 
 <p align="center">
 Simply Clone This Website And Just Import The tinkerter.py 
-And In Your File Just Type This ```from TkinterModule import *```
+And In Your File Just Type This ```from TkinterModule import TkinterModule.py ```
 If you have you forked it don't forget to star it ⭐
 
 ## ⚠Warning Read This // Disclaimer
