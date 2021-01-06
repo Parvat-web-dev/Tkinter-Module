@@ -1,10 +1,5 @@
 <h1 align='center'>Tkinter-Module</h1>
-
-<p align="right">
-A module that makes programming Via Tinketer Module Which simplifies your gui module. 
-<p align="center">
-A simplified TKINTER MODULE For You. 
-<p align="center">
+<p align="center">A simplified TKINTER MODULE For You. </p>
   
 Are you tired of the long, lengthy codes of tkinter?
 Want to create GUI programmes with TKINTER?
